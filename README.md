@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: luishenriquedarli@gmail.com
 
+  ### Some stats 📊
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisdarli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,8 +32,7 @@
  
 </div>
   
-  ### Some stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisdarli&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
