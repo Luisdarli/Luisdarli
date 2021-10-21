@@ -1,7 +1,7 @@
 ### Hello! I'm Luis Darli 👋
 
 - 🔭 I'm currently working as a front-end developer
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: luishenriquedarli@gmail.com
 
   ### Some stats 📊
